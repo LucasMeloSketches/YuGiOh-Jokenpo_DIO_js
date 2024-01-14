@@ -2,12 +2,12 @@
 
 Esse jogo foi desenvolvido usando HTML5, CSS3 e Javascript. É um projeto do bootcamp Desenvolvimento de games em JavaScript da Dio.me. 
 
-conceitos abordados:
+#### conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código\
-\
-Tecnologias Utilizadas:
+
+#### Tecnologias Utilizadas:
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
 - JavaScript para a lógica de programação e interatividade.
 
