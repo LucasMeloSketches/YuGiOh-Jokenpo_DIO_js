@@ -26,7 +26,7 @@ Para jogar é só abrir esse repositório no Github Pages:
 
 
 Créditos
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One. O projeto é de autoria de [Felipe Aguiar](https://github.com/digitalinnovationone/js-yugioh-assets/commits?author=felipeAguiarCode)
+Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One. O projeto é de autoria de [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 
 ### Conecte-se comigo
