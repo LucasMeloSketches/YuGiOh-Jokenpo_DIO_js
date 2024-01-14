@@ -5,18 +5,19 @@ Esse jogo foi desenvolvido usando HTML5, CSS3 e Javascript. É um projeto do boo
 conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
-- Organização de código
+- Organização de código\
+/
 Tecnologias Utilizadas:
--HTML5 e CSS3 para a estrutura e aparência do jogo.
--JavaScript para a lógica de programação e interatividade.
+- HTML5 e CSS3 para a estrutura e aparência do jogo.
+- JavaScript para a lógica de programação e interatividade.
 
 
 ### Como Jogar
 Esse é um jogo de jokempo usando cartas com visual Yu-Gi-Oh. A cada rodada você recebe cartas e deve escolher uma delas para contrapor a do inimigo. 
--PAPEL ganha de PEDRA.
--PEDRA ganha de TESOURA.
--TESOURA ganha de PAPEL.
--tipos IGUAIS geram EMPATE.
+- PAPEL ganha de PEDRA.
+- PEDRA ganha de TESOURA.
+- TESOURA ganha de PAPEL.
+- tipos IGUAIS geram EMPATE.
 #### Tente vencer o oponente pelo menos 3 de 5 vezes para GANHAR a rodada!
 
 Para jogar é só abrir esse repositório no Github Pages:
