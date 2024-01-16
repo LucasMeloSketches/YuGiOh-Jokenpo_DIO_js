@@ -36,7 +36,7 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=80EE00)](https://www.linkedin.com/in/lucas-silva-melo-41ba23223/)
 [![Instagram](https://img.shields.io/badge/Instagram-010?style=for-the-badge&logo=instagram&logoColor=80EE00)](https://www.instagram.com/lucas.melo.sketches)
 [![Twitter](https://img.shields.io/badge/Twitter-333?style=for-the-badge&logo=twitter&logoColor=80EE00)](https://twitter.com/GoTyCuS)
-[![GitHub](https://img.shields.io/github/followers/LucasMeloSketches?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/LucasMeloSketches))
+[![GitHub](https://img.shields.io/github/followers/LucasMeloSketches?label=follow&style=social)](https://github.com/LucasMeloSketches)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeloSketches&layout=compact&theme=merko)](https://github.com/LucasMeloSketches)
